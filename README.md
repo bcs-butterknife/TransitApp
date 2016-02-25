@@ -1,1 +1,3 @@
 # TransitApp
+
+Git Workflow Instructions
