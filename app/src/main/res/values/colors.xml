@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transitBlue">#1471B8</color>
+    <color name="transitDarkBlue">#16345F</color>
+    <color name="transitYellow">#F0D56C</color>
+    <color name="transitLightBlue">#D3E0ED</color>
+    <color name="transitOrange">#F57921</color>
 </resources>
